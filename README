@@ -9,3 +9,4 @@ Major advantages of this plugin over other implementations are:
  - Retrieves quantitative descriptors from the Sholl profile, allowing
    statistical comparisons between arbors
  - Performs "Continuous Sholl" in 2D and 3D
+Join the chat at https://gitter.im/dscho/ASA
